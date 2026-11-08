@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Zeeshan Ahmad
 
-<!--
-**zeeshan-codes-ai/zeeshan-codes-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🤖 Aspiring AI Engineer | Python • Machine Learning • LLMs
 
-Here are some ideas to get you started:
+Learning AI by building. Sharing every project and lesson here, one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 za454428@gmail.com
+💼 Open to AI/ML internships and collaboration
+
+## 🚀 Currently
+
+- 🌱 Learning Python, data analysis, and machine learning
+- 🎯 Next goal: build AI agents
